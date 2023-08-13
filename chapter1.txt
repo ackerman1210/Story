@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am 1(main).
+=======
+I am 1(alien).
+>>>>>>> alien-plot
